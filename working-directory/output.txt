@@ -1,0 +1,7 @@
+AAA is: 123
+total 40
+-rw-r--r--   1 l.lawliet  staff    12B May  1 11:07 output.txt
+drwxr-xr-x  13 l.lawliet  staff   416B May  1 11:07 ..
+-rw-r--r--   1 l.lawliet  staff    47B Apr 30 23:33 run.sh
+drwxr-xr-x   5 l.lawliet  staff   160B Apr 30 23:33 .
+-rw-r--r--   1 l.lawliet  staff    11K Apr 30 23:33 .hidden.txt
